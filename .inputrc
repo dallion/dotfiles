@@ -42,5 +42,5 @@ set convert-meta off
 # List avaliable option with tab
 set show-all-if-ambiguous on
 
-# Set show options ignore case
+# Set auto completion ignore case
 set completion-ignore-case on
