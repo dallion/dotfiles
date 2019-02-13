@@ -12,6 +12,8 @@ set backspace=indent,eol,start
 set ttyfast
 " Add the g flag to search/replace by default
 set gdefault
+" Set Tab equals two whitespace
+set tabstop=2
 " Use UTF-8 without BOM
 set encoding=utf-8 nobomb
 " Change mapleader
