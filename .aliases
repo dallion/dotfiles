@@ -29,7 +29,7 @@ alias la="ls -lhAF ${colorflag}"
 alias lsd="ls -lhF ${colorflag} | grep --color=never '^d'"
 
 # List only files
-alias lsd="ls -lhF ${colorflag} | grep -v --color=never '^d'"
+alias lsf="ls -lhF ${colorflag} | grep -v --color=never '^d'"
 
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"
